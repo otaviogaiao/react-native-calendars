@@ -459,6 +459,7 @@ An advanced agenda component that can display interactive listings for calendar 
   }}
   // agenda container style
   style={{}}
+  renderFutureDays={true} //indicates if agenda should render future days when open
 />
 ```
 
